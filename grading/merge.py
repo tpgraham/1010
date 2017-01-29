@@ -39,6 +39,7 @@ def main (argv) :
     final_grade_index = style_grade_index + 1
 
     # Find where in the master csv we need to insert final grades    
+    section_index = 3
     master_final_index = 0
     while master_final_index < len(rows_m[0]) :
         try :
@@ -56,7 +57,10 @@ def main (argv) :
             sys.stderr.write("ERROR - student lists mis-matched!\n")
             sys.exit(2)
 
-        final_grade = int(rows_a[index][technical_grade_index]) + \
+        if rows_a[index][section_index].count("-004") == 1 :
+            final_grade = 0 # don't assign a grade
+        else : 
+            final_grade = int(rows_a[index][technical_grade_index]) + \
                                         int(rows_a[index][style_grade_index]) 
 
         rows_a[index][final_grade_index] = final_grade
