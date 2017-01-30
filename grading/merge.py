@@ -58,7 +58,7 @@ def main (argv) :
             sys.exit(2)
 
         if rows_a[index][section_index].count("-004") == 1 :
-            final_grade = 0 # don't assign a grade
+            final_grade = ""  # don't assign a grade
         else : 
             final_grade = int(rows_a[index][technical_grade_index]) + \
                                         int(rows_a[index][style_grade_index]) 
