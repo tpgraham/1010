@@ -104,15 +104,18 @@ def main (argv) :
 
         for row in csv.reader(r) :
             rows.append(row)
-    
+
         # Set working directory to lab folder for testing
         os.chdir("lab" + lab_num + "/")    
         
         lab_index = getLabIndex(rows[0], lab_num)
  
        # Go through the CSV rows, get student ID, and use it to grade their program. 
-        for i in range (1, len(rows)) :
-
+        for i in range (2, len(rows)) :
+           
+            # skip all students who aren't in section 2
+            if rows[i][3].count("-002") != 1 : continue
+ 
             student  = rows[i][:2] # pass student name, student id
             technical_grade = getGrade(program, student)
 

@@ -1,0 +1,1934 @@
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:1: error: stray ‘\177’ in program
+ ELFso.2
+ ^
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:1: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:8: warning: null character(s) ignored [enabled by default]
+ ELF
+        ^
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:1: error: stray ‘\2’ in program
+ ELF
+ ^
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:18: warning: null character(s) ignored [enabled by default]
+ ELF
+                  ^
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘>’ token
+ ELF
+                   ^
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:20: warning: null character(s) ignored [enabled by default]
+ ELF
+                    ^
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+ ELF
+                   ^
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:22: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:25: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:27: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:28: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:33: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:34: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\21’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:43: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:53: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:54: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:56: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:59: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:60: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\36’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:62: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\33’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:64: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:66: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:70: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:73: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:74: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:81: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:82: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:83: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:84: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:89: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:90: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:91: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:92: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\370’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:99: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\370’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:107: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:114: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:122: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:126: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:131: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:139: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:140: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:147: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:148: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\34’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:154: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\34’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:162: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:170: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:178: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:182: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:195: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:196: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:203: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:204: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\7’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:211: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\7’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:219: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:234: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:238: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:243: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:252: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:260: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:267: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:275: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:290: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:294: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:299: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:308: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:316: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\320’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:323: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\320’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:331: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:338: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:346: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:350: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:355: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:363: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:364: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:371: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:372: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:378: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:386: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:394: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\345’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:406: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:411: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:419: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:420: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:427: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:428: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:434: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:442: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:450: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\345’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:462: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:506: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\345’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:518: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:523: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:532: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:540: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\360’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:547: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\360’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:555: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:562: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:589: error: invalid suffix "so.2" on floating constant
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:596: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:598: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:602: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:606: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:612: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:618: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:622: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:626: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:630: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:634: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:638: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:644: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\320’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\233’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\252’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\353’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\366’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\203’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\27’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\271’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\313’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\263’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\317’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\371’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:666: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:670: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:674: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:726: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:746: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:750: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:769: warning: null character(s) preserved in literal [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:769: warning: missing terminating " character [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:1:19: error: missing terminating " character
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:1: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:4: error: stray ‘\205’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:4: error: stray ‘\300’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:4: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:4: error: stray ‘\350’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:11: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:4: error: stray ‘\203’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:4: error: stray ‘\304’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:4: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:4: error: stray ‘\303’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:19: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:4: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before numeric constant
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:28: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:34: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\37’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:39: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:40: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:44: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:48: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\351’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\340’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\372’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:60: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:65: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\351’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\320’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\362’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:76: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:81: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\351’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\300’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\355’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\321’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\342’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\203’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\344’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\360’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\307’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\300’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:109: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:110: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\307’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\301’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\240’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:116: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:117: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\307’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\307’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:123: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:124: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\350’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\267’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\364’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\37’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:135: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\270’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:141: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:145: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:148: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\203’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\370’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\345’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\303’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\270’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:161: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\205’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\300’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\364’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\277’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:172: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:175: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\340’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\37’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\200’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:181: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\270’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:186: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:189: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:193: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:196: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\301’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\370’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\345’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\302’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\301’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\352’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\320’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\321’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\370’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\303’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\272’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:222: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\205’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\322’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\364’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\306’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\277’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:236: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:239: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\342’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\37’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\200’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:245: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\200’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:252: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\21’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\345’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\350’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\306’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:271: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\363’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\303’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\37’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:279: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:280: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\203’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:285: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\36’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\270’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:292: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\205’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\300’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\277’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:306: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\345’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\320’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\351’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\37’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:320: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\351’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\345’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\277’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:333: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:334: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\350’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\325’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\277’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:343: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:344: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\350’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\313’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\277’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:353: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:354: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\350’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\301’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\277’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:363: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:364: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\350’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\267’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\277’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:373: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:374: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\350’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\255’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\277’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:383: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:384: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\350’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\243’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\277’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:393: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:394: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\350’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\231’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\277’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:403: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:404: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\350’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\217’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\277’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:413: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:414: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\350’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\205’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\277’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:423: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:424: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\350’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\270’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:431: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\303’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\37’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:439: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:440: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\366’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\325’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\215’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:463: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\215’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:471: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\345’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\333’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\301’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\375’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\203’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\354’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:2:26: error: stray ‘\350’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\205’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\355’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\36’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\37’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\204’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:12: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\352’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\366’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\334’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\203’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\303’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\353’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\352’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\203’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\304’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\303’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\37’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\204’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:60: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\363’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\303’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:67: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\203’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\354’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\203’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\304’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\303’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:78: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:82: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:84: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:96: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\33’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:102: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:106: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\320’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\375’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\200’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:114: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:122: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\375’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\250’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:130: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\310’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:138: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\340’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:147: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:154: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:164: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\33’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\7’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\220’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\7’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:178: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\34’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:182: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\270’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\375’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:190: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:202: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:212: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\33’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\7’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\220’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:223: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:226: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\34’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:230: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\375’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:237: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:238: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\200’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:253: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: stray ‘\32’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:258: error: invalid suffix "$" on integer constant
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:260: warning: null character(s) preserved in literal [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:260: warning: missing terminating " character [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:3:1: error: missing terminating " character
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\7’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:7: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:10: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:14: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\240’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:22: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\217’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\216’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\215’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\214’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\206’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\203’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\7’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:58: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:61: error: invalid suffix "A" on integer constant
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:64: error: invalid suffix "A" on integer constant
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:80: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:82: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\254’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:86: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\310’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:94: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1827: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1828: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\340’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1835: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1836: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1850: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1858: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\340’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1875: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:4:1876: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:1: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:10: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:11: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\31’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:17: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:27: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\33’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:33: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:41: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\32’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:49: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:59: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\34’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:65: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:73: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\365’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:84: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\230’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:90: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:91: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:97: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:106: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:107: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:113: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\270’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:122: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:5:123: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:9: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:25: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\25’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:33: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:49: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:59: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:65: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:73: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:81: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\7’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:89: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\27’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:97: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\230’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:106: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:107: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\7’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:113: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\200’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:122: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:123: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:129: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:137: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:153: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:164: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:170: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:171: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:180: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:185: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\360’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:196: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:202: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:203: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:315: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\26’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:338: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:339: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:346: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:347: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:354: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:355: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:389: error: too many decimal points in number
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:395: error: invalid suffix "ubuntu1" on integer constant
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:404: error: too many decimal points in number
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:413: error: too many decimal points in number
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:418: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:427: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:435: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:445: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:453: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:467: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:486: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:496: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:504: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:512: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:525: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:540: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:550: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:560: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:566: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:572: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:578: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:586: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:600: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:610: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:622: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:634: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:639: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:648: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:653: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:662: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:668: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:673: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:682: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\33’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:753: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:757: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:761: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:770: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:771: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:778: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\34’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:785: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:801: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:816: error: stray ‘#’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:817: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\7’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:821: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:825: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:834: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:835: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:842: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:865: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:881: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\7’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:885: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:889: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:898: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:899: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:906: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:913: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:929: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:945: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\366’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:953: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\230’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:962: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:963: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\230’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:970: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\34’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:977: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:985: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:993: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1009: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1017: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\270’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1026: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1027: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\270’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1034: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1041: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1049: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1053: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1057: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1065: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1073: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1077: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1081: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1090: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1091: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1098: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1105: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1121: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1137: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1145: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1154: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1155: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1162: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1169: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1177: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1185: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1193: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1201: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\376’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1209: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1218: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1219: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1226: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1241: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1245: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1249: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1265: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1269: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1273: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\200’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1282: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1283: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\200’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1290: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1297: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1305: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1313: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1321: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\204’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1329: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1333: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1337: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\230’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1346: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1347: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\230’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1354: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1361: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1369: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1377: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1385: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\216’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1393: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1397: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1401: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\340’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1410: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1411: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\340’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1418: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\32’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1425: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1441: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\211’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1457: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1461: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1465: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1474: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1475: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1482: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1488: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1489: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1505: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1513: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\224’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1521: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1525: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1529: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1536: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1538: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1539: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1544: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1546: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\322’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1554: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1569: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\232’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1585: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1589: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1593: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1602: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1603: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1610: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1633: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\240’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1649: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1653: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1657: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1666: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1667: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1674: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1681: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1697: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\250’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1713: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1717: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1721: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1730: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1731: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1738: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1745: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1761: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\266’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1777: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1781: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1785: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1794: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1795: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1802: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\364’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1809: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1825: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\300’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1841: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1845: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1849: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1859: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1866: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1873: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1889: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\314’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1905: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1909: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1913: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1923: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1930: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1937: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1953: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\330’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1969: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1973: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1977: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1987: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:1994: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2001: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2017: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\335’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2033: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2037: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2041: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2051: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2058: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\320’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2066: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2073: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2081: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2089: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\346’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2097: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2101: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2105: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\370’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2115: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\370’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2122: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2129: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2145: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2153: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\353’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2161: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2165: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2169: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2179: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2186: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2193: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2209: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2217: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\364’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2225: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2229: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2233: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2243: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2250: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2257: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2273: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\372’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2289: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2293: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2297: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2304: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2307: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2312: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2314: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2321: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2337: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2353: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2357: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2361: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2376: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2378: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2385: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2401: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2409: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\21’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2417: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2421: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2442: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2450: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2465: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2481: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2485: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\370’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2506: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2514: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\35’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2521: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2525: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2529: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2537: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2549: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\37’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2570: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2578: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2593: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2637: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2639: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2642: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2643: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2661: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2663: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2666: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2667: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2685: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2687: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2690: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2691: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2709: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2711: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\230’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2714: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2715: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2733: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2735: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\270’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2738: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2739: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2757: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2759: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2762: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2763: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2781: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\7’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2783: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2786: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2787: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2805: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2807: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2810: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2811: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2829: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\200’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2834: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2835: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:8: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:6:2853: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:1: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:2: error: stray ‘\230’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:4: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:5: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:23: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:2: error: stray ‘\340’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:28: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:29: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:47: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:2: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:52: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:53: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:7:71: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:1: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:4: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:5: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:23: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:25: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:28: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:29: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:47: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:49: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:52: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:53: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:71: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:73: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:76: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:77: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:95: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\21’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:97: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:100: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:101: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:119: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:121: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:125: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:143: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\23’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:145: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:149: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:167: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:169: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:173: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:191: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\25’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:193: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:197: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:215: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\26’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:217: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\370’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:221: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:239: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\27’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:241: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:245: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:263: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:265: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:269: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:287: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\31’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:289: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:290: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:293: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:311: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\32’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:313: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:331: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:335: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\361’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:338: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:359: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:361: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:365: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\31’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:379: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:2: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:8:383: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:9:1: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:9:2: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:9:4: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:9:5: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:9:19: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:9:2: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:9:23: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:10:1: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:10:2: error: stray ‘\240’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:10:2: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:10:4: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:10:5: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:10:19: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:10:2: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:10:23: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:1: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:2: error: stray ‘\340’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:2: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:4: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:5: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:19: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:23: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:2: error: stray ‘\31’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:25: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:26: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:29: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:35: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:43: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:47: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:2: error: stray ‘\23’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:49: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:2: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:2: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:53: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:2: error: stray ‘\215’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:67: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:2: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:11:71: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:1: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:4: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:5: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\231’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:19: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:23: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:25: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:29: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\270’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:43: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:47: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\361’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:50: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:67: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:71: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\361’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:74: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\301’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:91: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:95: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\21’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:97: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\7’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:100: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:101: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\317’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:115: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:119: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:121: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:125: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:143: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\361’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\377’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:146: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\333’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:163: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:169: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:173: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\354’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:187: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:191: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\25’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:193: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:197: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\365’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:211: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:217: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:221: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\10’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:236: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:239: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\27’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:241: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:245: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\36’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:260: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:3: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:12:263: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:1: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:4: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:5: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:11: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:20: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:44: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:49: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:53: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:68: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:71: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:92: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:95: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:97: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:98: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:101: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:116: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:119: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\16’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:121: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\24’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:124: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:125: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:140: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:143: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\223’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:164: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:167: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:169: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:173: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\240’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:188: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\257’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:212: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\21’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:217: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:221: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\274’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:236: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\21’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:239: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\17’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:241: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\6’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:244: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:245: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:251: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\313’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:260: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:2: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:13:263: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:1: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:2: error: stray ‘\240’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:2: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:4: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:5: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:11: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:2: error: stray ‘\333’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:20: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:23: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:2: error: stray ‘\31’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:25: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:29: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:2: error: stray ‘\340’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:44: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:2: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:14:47: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:1: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:2: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:2: error: stray ‘\4’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:4: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:5: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:2: error: stray ‘\347’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:20: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:23: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:2: error: stray ‘\31’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:25: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:26: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:29: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:2: error: stray ‘\363’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:44: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:2: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:15:47: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:1: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘\5’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:4: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:5: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:11: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘\370’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘\1’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:20: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:44: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘\21’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:49: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:50: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘\20’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘`’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:53: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘\30’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:68: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘\2’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:92: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘\22’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:95: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘\340’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:2: error: stray ‘\3’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:100: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:101: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:125: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:138: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:159: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:178: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:200: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:215: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:254: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:266: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:297: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:306: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:320: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:332: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:349: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:358: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:377: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:399: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:415: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:443: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:454: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:459: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:460: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:468: error: too many decimal points in number
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:472: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:479: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:485: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:503: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:504: error: stray ‘@’ in program
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:512: error: too many decimal points in number
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:516: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:529: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:544: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:557: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:572: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:588: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:593: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:600: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:612: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:617: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:637: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:649: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:675: warning: null character(s) ignored [enabled by default]
+submissions/brunsonstephenm_53422_1055412_lab1.c:16:681: warning: null character(s) ignored [enabled by default]
+ERROR:root:No file with expected name, perhaps file is mis-named.
