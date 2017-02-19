@@ -115,11 +115,11 @@ def main (argv) :
             else : 
                 logging.info("Lost 6 pts for not using fprintf at least once")
 
-            if code_lines.count("fprintf") >= 8 : 
+            if code_lines.count("fprintf") >= 4 : 
                 technical_grade += 4
-                logging.info("Gained 4 pts for using fprintf at least eight times")
+                logging.info("Gained 4 pts for using fprintf at least four times")
             else : 
-                logging.info("Lost 4 pts for not using fprintf at least eight times")
+                logging.info("Lost 4 pts for not using fprintf at least four times")
         except :
             logging.error("Code failed to open properly.")
             #traceback.print_exc()
