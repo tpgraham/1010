@@ -18,9 +18,9 @@ def getGrade(program, student) :
     program_output = subprocess.check_output(["python", program, student_id])
 
     try :
-        result = int(program_output)
+        result = program_output
     except :
-        result = 0
+        result = 0.0
 
     print student_name , " - ", result
 
