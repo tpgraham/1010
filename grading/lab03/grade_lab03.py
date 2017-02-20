@@ -17,23 +17,25 @@ def check_lab_output (lines, logging, totalPoints) :
     textPts = (6.0/60.0) * totalPoints
     linePts = (4.0/60.0) * totalPoints
 
-    ansLines = ["intVar1 = 4  and intVar2 = 3\n", \
+    ansLines = ["intVar1 = 4  and intVar2 = 3", \
         "\n", \
-        "Expression values are:\n", \
-        "exp1 = 24\n", \
-        "exp2 = 2\n", \
+        "Expression values are:", \
+        "exp1 = 24", \
+        "exp2 = 2", \
         "\n", \
-        "intVar3 = 3 and intVar4 = 5\n", \
+        "intVar3 = 3 and intVar4 = 5", \
         "\n", \
-        "Expression values are:\n", \
-        "exp3 = 5\n", \
-        "exp4 = 1\n"]
+        "Expression values are:", \
+        "exp3 = 5", \
+        "exp4 = 1"]
 
     try :
         for i, ansLine in enumerate(ansLines):
             pts = linePts if ansLine == "\n" else textPts
             if lines[i].count(ansLine) == 1 \
-                or lines[i].count(ansLine.replace("  ", " ")) == 1 : #the answer key has two spaces, but some people put one space
+                or lines[i].count(ansLine.replace("  ", " ")) == 1 \
+                or lines[i].count(ansLine.replace("\n", "\r")) == 1 \
+                or lines[i].count(ansLine.replace("  ", " ").replace("\n", "\r")) == 1:
                 subGrade += pts
                 logging.info("Gained " + str(pts) + " pts for printing correct Line " + str(i))    
             else :
@@ -41,7 +43,8 @@ def check_lab_output (lines, logging, totalPoints) :
                 logging.info("Correct:" + ansLine)
                 logging.info("Incorrect:" + lines[i])
     except :
-        logging.error("Error during checking lab output");
+        if i >= len(lines) : logging.error("Not enough lines of output")
+        else : logging.error("Error during checking lab output")
         #traceback.print_exc()
 
     return (subGrade)
